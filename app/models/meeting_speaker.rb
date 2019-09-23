@@ -1,2 +1,0 @@
-class MeetingSpeaker < ApplicationRecord
-end

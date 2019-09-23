@@ -1,0 +1,5 @@
+{
+  meeting_id: @meeting_speakee.meeting_id,
+  speaker_id: @meeting_speakee.speaker_id
+
+}
